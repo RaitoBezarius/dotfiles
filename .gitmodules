@@ -3,4 +3,4 @@
 	url = https://github.com/powerline/fonts
 [submodule "prezto"]
 	path = prezto
-	url = git@github.com:RaitoBezarius/prezto
+	url = https://github.com/RaitoBezarius/prezto
